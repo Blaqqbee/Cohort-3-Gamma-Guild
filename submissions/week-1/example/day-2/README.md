@@ -1,8 +1,8 @@
 # Day 2 Assignment
 
-Place your Day 2 assignment file here.
+https://x.com/Tongzum_joshua/status/1986778218385617242
 
-File name format: your-name-blockchain-intro.md
+File name Tongzum Joshua 
 
 Example: john-doe-blockchain-intro.md
 
